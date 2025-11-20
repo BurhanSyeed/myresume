@@ -3,7 +3,6 @@ import image from "../img/p5.jpg";
 import cv from "../doc/SyedBurhanAli.pdf";
 // import Navbar from './Navbar';
 // import Footer from './Footer';
-
 function About() {
  
   const margin = {
@@ -135,6 +134,7 @@ function About() {
                 marginTop: "35px",
                 backgroundColor: "rgba(128, 153, 194)",
               }}
+              download
               href={cv}
             >
               Download CV
