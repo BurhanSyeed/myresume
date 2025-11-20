@@ -1,6 +1,6 @@
 import React, {  useRef } from "react";
 import image from "../img/p5.jpg";
-import cv from "../doc/BurhanCv.docx"
+import cv from "../doc/SyedBurhanAli.pdf";
 // import Navbar from './Navbar';
 // import Footer from './Footer';
 
